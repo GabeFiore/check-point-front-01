@@ -2,7 +2,7 @@ let nome = "Gabriel";
 let idade = 19; 
 let status = true;
 let valorProduto = 10.50;
-let listaTimes = ["Corinthians", "Racing", "Inter Miami"]
+let listaTimes = ["Corinthians", "Racing", "Inter Miami"];
 
 console.log("Meu nome é:" , nome);
 console.log("Minha idade é" , idade);
